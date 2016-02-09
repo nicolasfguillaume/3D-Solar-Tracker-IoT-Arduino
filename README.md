@@ -2,7 +2,7 @@
 
 Solar energy is converted by the solar array and charges the Battery pack. The Battery pack is supplying a controller which optimize the orientation of the solar array towards the sunlight, based on the light sensor attached to the solar array. In addition to powering the control system, the battery pack has enough capacity to concurrently charge a smartphone or a tablet. It takes approximately about 10 hours (under STC) -or about 1.5 day- to charge the battery pack completely.
 
-http://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker.jpg
+![Alt text](/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker.jpg?raw=true "Pic")
 
 Overall technical Specs:
 - Solar Array: 5Wp (= 5 x 1W solar panels in parallel)
