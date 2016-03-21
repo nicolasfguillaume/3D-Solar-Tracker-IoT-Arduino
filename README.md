@@ -12,3 +12,7 @@ Overall technical Specs:
   * Output: servo motor (9g, 1.5 kg.cm)
 - Monitoring: Bluetooth communication protocol (serial UART), sending data every 10 seconds
 - Mounting system: 3D printed structure, featuring a fixed structure (the "base") and a moving structure (the "axis")
+
+![solar tracker](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker-2.jpg)
+
+![solar tracker](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker-3.jpg)
