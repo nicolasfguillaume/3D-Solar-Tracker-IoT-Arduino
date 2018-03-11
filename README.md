@@ -17,11 +17,9 @@ Solar energy is converted by the solar array and charges the Battery pack. The B
 ## Principle
 
 ![solar tracker](https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/principle.jpg)
-
-## Some pictures
-
 ![solar tracker](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker.jpg)
-![solar tracker](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker-2.jpg)
+
+## Pictures
 
 ### Solar panels
 
@@ -42,6 +40,8 @@ Solar energy is converted by the solar array and charges the Battery pack. The B
 https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/solar-tracker.c
 
 ## 3D print files
+
+![solar tracker](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker-2.jpg)
 
 https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/3d_print_files/Complete_Single_axis_Tracker_final.skp
 
