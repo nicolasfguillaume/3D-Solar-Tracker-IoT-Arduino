@@ -24,7 +24,7 @@ Solar energy is converted by the solar array and charges the Battery pack. The B
 ### Solar panels
 
 ![solar tracker](https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/photos/solar_panels_front.jpg)
-![solar tracker](https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/photos/solar_panels_back.jpg)
+![solar tracker](https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/photos/solar_panel_back.jpg)
 
 ### Support and DC step motor
 
