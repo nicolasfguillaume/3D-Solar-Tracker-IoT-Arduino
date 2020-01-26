@@ -49,3 +49,28 @@ https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/so
 https://github.com/nicolasfguillaume/3D-Solar-Tracker-IoT-Arduino/blob/master/3d_print_files/Complete_Single_axis_Tracker_final.skp
 
 Note : Sketchup files need to converted to STL files in order to sent to a 3D printer. You can use the following extension to do so : https://extensions.sketchup.com/en/content/sketchup-stl
+
+## Solar-tracking algorithm (C programming language)
+
+```c
+  if ((abs(average_diff) >= epsilon) || (abs(-average_diff) >= epsilon))
+    {
+       if (average_diff > 0)
+           {
+             angle += servo_step;
+             if(angle < 148) { myservo.write(angle); }
+             else            { angle = 148; }      // low limit  --   high number is lower -- modify the design of structure to allow lower
+           }
+        else  
+           {
+             angle -= servo_step;
+             if(angle > 53) { myservo.write(angle); }
+             else          { angle = 53; }         // high limit -- small number is higher 
+           }
+       prog_speed = 200;    // faster response to a light change
+    }
+    else
+    {
+       prog_speed = prog_break;    // slower response if no major light change
+    }
+```
